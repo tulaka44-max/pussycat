@@ -1,4 +1,8 @@
 {
-  "name": "PussycatTech",
-  "description": "Breed unhinged cats on Solana."
+  "name": "Pussy Cat",
+  "symbol": "CAT",
+  "Authority": "9hVi2dbxr77H7Sxx3vNJ3nWaMa3UJ7j4tJzEtcdHo9Fh",
+  "image": "",
+  "twitter": "",
+  "Contract": "7AvHstFUVFZPGSnKu2V3MiVaP8G87GgEyqW2wBKRvPcp"
 }
